@@ -1,0 +1,22 @@
+2024-10-30 13:10:10 INFO User login successful: user1
+2024-10-30 13:12:45 ERROR Failed to load resource: resource_id=1234
+2024-10-30 13:15:12 WARN Disk space running low on /dev/sda1
+2024-10-30 13:20:54 INFO User logout: user1
+2024-10-30 13:25:22 INFO User login successful: user2
+2024-10-30 13:30:47 ERROR Database connection failed: db_host=192.168.1.10
+2024-10-30 13:35:33 INFO User login successful: user3
+2024-10-30 13:40:12 WARN High memory usage detected: process_id=5678
+2024-10-30 13:45:29 INFO User logout: user2
+2024-10-30 13:50:44 ERROR File not found: /var/log/missing_file.log
+2024-10-30 13:55:00 INFO System reboot initiated by admin
+2024-10-30 14:00:15 INFO User login successful: user4
+2024-10-30 14:05:30 WARN CPU temperature high: cpu_id=2
+2024-10-30 14:10:45 INFO User logout: user3
+2024-10-30 14:15:00 ERROR Network timeout: server=example.com
+2024-10-30 14:20:15 INFO User login successful: user5
+2024-10-30 14:25:30 WARN Low battery on UPS: ups_id=UPS1
+2024-10-30 14:30:45 INFO User logout: user4
+2024-10-30 14:35:00 ERROR Permission denied: /etc/secure_file
+2024-10-30 14:40:15 INFO User login successful: user6
+2024-10-30 14:45:30 WARN High network latency detected: interface=eth0
+2024-10-30 14:50:45 INFO User logout: user5
